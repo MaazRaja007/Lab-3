@@ -1,0 +1,11 @@
+#inclue iostream 
+using namespace std
+
+int main()
+
+
+Cout>>"helo World ";
+
+
+end main()
+return 0;
